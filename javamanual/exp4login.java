@@ -1,4 +1,5 @@
 // This program creates a login program using JFrame
+// This program has errors
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
